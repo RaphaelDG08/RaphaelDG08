@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008170&height=120&section=header"/>
+
 <h1 align="center">Hello There! me chamo Raphael, sou Ux/Ul Desginer e estou ingressando na area de Desenvolvedor Front-end&nbsp;
  
  &nbsp;
