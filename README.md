@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/RaphaelDG08/RaphaelDG08/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Hello There! me chamo Raphael, sou Ux/Ul Desginer e estou ingressando na area de Desenvolvedor Front-end&nbsp;
+<h1 align="center">Hello There! me chamo Raphael, sou Ux/Ul Desginer e estou ingressando na area de Desenvolvedor Front-end&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RaphaelDG08&theme=radical&mode=weekly" />
@@ -33,7 +33,6 @@
 
 ## Contatos:
 
-https://www.linkedin.com/in/raphaeldg/
 
 <div> 
 <a href = "mailto:contato.raphaeldimanigirardi@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
